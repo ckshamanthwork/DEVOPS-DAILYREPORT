@@ -1,4 +1,4 @@
-Daily report - 31/12/24
+Daily report - (31/12/24)
 
 - Followed up with Trustgrow company for the setup which was pending but they didn’t have the credentials. They are looking for it with the local provider. Once they receive that, we will complete the setup.
 - The MTC company Tally application error was resolved.
